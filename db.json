@@ -1,8 +1,8 @@
 {
   "categories": [
-    { "id": 1, "name": "Categoria 1" },
-    { "id": 2, "name": "Categoria 2" },
-    { "id": 3, "name": "Categoria 3" }
+    { "id": 1, "name": "Platos" },
+    { "id": 2, "name": "Bebidas" },
+    { "id": 3, "name": "Extras" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
