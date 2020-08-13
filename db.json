@@ -1,8 +1,8 @@
 { 
   "products": [
-    { "id": 1, "name": "Platos", "bg":"https://elasticbeanstalk-us-east-2-116939371799.s3.us-east-2.amazonaws.com/meals.png","category_id":1},
-    { "id": 2, "name": "Bebidas", "bg":"https://elasticbeanstalk-us-east-2-116939371799.s3.us-east-2.amazonaws.com/drinks.png","category_id":1 },
-    { "id": 3, "name": "Extras","bg":"https://elasticbeanstalk-us-east-2-116939371799.s3.us-east-2.amazonaws.com/entries.jpg","category_id":1 }
+    { "id": 1, "name": "Producto 1", "bg":"https://elasticbeanstalk-us-east-2-116939371799.s3.us-east-2.amazonaws.com/meals.png","category_id":1,"reference":"Ref 1"},
+    { "id": 2, "name": "Producto 2", "bg":"https://elasticbeanstalk-us-east-2-116939371799.s3.us-east-2.amazonaws.com/drinks.png","category_id":1,"reference":"Ref 2" },
+    { "id": 3, "name": "Producto 3","bg":"https://elasticbeanstalk-us-east-2-116939371799.s3.us-east-2.amazonaws.com/entries.jpg","category_id":1,"reference":"Ref 3" }
   ],
   "categories": [
     { "id": 1, "name": "Platos", "bg":"https://elasticbeanstalk-us-east-2-116939371799.s3.us-east-2.amazonaws.com/meals.png"},
