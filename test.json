@@ -1,0 +1,26 @@
+{
+    "resultado": {
+        "idmercado": "",
+        "idsucursal": null,
+        "estado": "1",
+        "mensaje": "Exito",
+        "total_registros": 1,
+        "prestamos": {
+            "38908": {
+                "idprestamo": 38908,
+                "idcliente": "1738",
+                "monto_capital": 121,
+                "monto_total": 133.1,
+                "interes_porcentaje": 10,
+                "saldo": 133.1,
+                "fecha_prestamo": "2021-06-01",
+                "fecha_vencimiento": "2021-07-01",
+                "estado": "P",
+                "gasto_administrativo": "1",
+                "forma_pago": "D",
+                "duracion": "30",
+                "nombre_completo": "Cesar Prueba Bautista Yopan"
+            }
+        }
+    }
+}
